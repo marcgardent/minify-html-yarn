@@ -37,8 +37,6 @@
   },
   "homepage": "https://github.com/wilsonzlin/minify-html#readme",
   "optionalDependencies": {
-    "@minify-html/node-darwin-arm64": "0.15.0",
-    "@minify-html/node-darwin-x64": "0.15.0",
     "@minify-html/node-linux-arm64": "0.15.0",
     "@minify-html/node-linux-x64": "0.15.0",
     "@minify-html/node-win32-x64": "0.15.0"
